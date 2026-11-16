@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Maven 4 Migration: A Practical Guide to Smooth Upgrades"
+author: "Andrey Strukov"
 ---
 
 # Maven 4 Migration: A Practical Guide to Smooth Upgrades
