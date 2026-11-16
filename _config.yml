@@ -2,4 +2,4 @@ title: "Maven 4 Migration: A Practical Guide to Smooth Upgrades"
 description: "A step-by-step guide for migrating from Maven 3 to Maven 4, covering prerequisites, installation, troubleshooting, and new features."
 author: "Andrey Strukov"
 
-theme: minima
+theme: jekyll-theme-slate
