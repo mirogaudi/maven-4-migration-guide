@@ -1,0 +1,8 @@
+title: "Maven 4 Migration: A Practical Guide to Smooth Upgrades"
+description: "A step-by-step guide for migrating from Maven 3 to Maven 4, covering prerequisites, installation, troubleshooting, and new features."
+theme: jekyll-theme-cayman
+
+github:
+  repository_url: null
+
+show_downloads: false
